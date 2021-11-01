@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Nixplay Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Validate the header and menu of the Nixplay Fifteen Inch Frame page(failed)">
+    <classes>
+      <class name="testNGRunner.testrunner">
+        <methods>
+          <include name="scenario" invocation-numbers="0"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- testNGRunner.testrunner -->
+    </classes>
+  </test> <!-- Validate the header and menu of the Nixplay Fifteen Inch Frame page(failed) -->
+</suite> <!-- Failed suite [Nixplay Test Suite] -->

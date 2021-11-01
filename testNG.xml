@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Nixplay Test Suite" >
+  <test name="Validate the header and menu of the Nixplay Fifteen Inch Frame page">
+      <classes>
+      	<class name="testNGRunner.testrunner"/>
+      </classes>
+  </test> 
+ </suite>
